@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.env
+
+# Playwright / Звіти
+playwright-report/
+test-results/
+.auth/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
